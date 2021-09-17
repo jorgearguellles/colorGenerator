@@ -21,7 +21,7 @@ Made with :green_heart: and:
 
 ## Vista
 
-![App Screenshot](https://github.com/jorgearguellles/googleClone/blob/main/img/1.png)
+![App Screenshot](https://github.com/jorgearguellles/colorGenerator/blob/main/img/1.png)
 
 ## Retroalimentación
 
