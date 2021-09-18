@@ -15,7 +15,7 @@ Made with :green_heart: and:
 - [@jorgeariasargüelles - Github](https://github.com/jorgearguellles)
 - [@jorgeariasargüelles - LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/)
 
-## Exploralá
+## Pruebala
 
 [Pruébala](https://jorgearguellles.github.io/colorGenerator/)
 
